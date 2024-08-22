@@ -1,6 +1,6 @@
 # Hierarchical-SEP-Model
 
-We proposed a new script event prediction model, called *EMDF-Net*. 
+We proposed a new hierarchical neural network model for more accurate script event prediction. 
 
 ## Prerequisites
 - linux
